@@ -4,8 +4,7 @@ const CACHE_NAME = `${registration.scope}!${CACHE_VERSION}`;
 // キャッシュするファイルをセットする
 const urlsToCache = [
     '.',
-    'icon/128.png',
-    'icon/256.png',
+    'icon/favicon.png',
     'script.js',
     'style.css',
     'sw.js'
